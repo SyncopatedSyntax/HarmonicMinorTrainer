@@ -10,6 +10,7 @@ from natural and melodic minor. Spaced-repetition practice with shape,
 raised-7th and mode drills.
 
 Shares its code with [Natural Minor Trainer](https://github.com/SyncopatedSyntax/NaturalMinorTrainer)
+and [Major Scale Trainer](https://github.com/SyncopatedSyntax/MajorScaleTrainer)
 — only `src/scale.js` differs.
 
 ```

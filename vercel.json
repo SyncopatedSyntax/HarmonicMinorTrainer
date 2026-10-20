@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    { "source": "/harmonic-minor/(.*)", "destination": "/$1" },
+    { "source": "/harmonic-minor", "destination": "/" }
+  ]
+}

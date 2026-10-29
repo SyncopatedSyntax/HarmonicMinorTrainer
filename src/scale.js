@@ -6,4 +6,3 @@ export const TOOL_KEY = 'hm';          // @fretworks/design registry key
 export const PREFIX = 'hm_';           // localStorage prefix (sync + backup use it)
 export const ACCENT = '#a3e635';       // lime
 export const APP_NAME = 'Harmonic Minor Trainer';
-export const ICON_TEXT = 'harm';
